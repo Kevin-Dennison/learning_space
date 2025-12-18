@@ -1,2 +1,2 @@
 # learning_space
-Sandpit repo
+Sandpit repo for learning Git
